@@ -1,0 +1,27 @@
+{
+  "name": "hls-copy",
+  "version": "0.0.1",
+  "description": "copy a live m3u8 manifest to another CDN",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victusfate/hls-copy.git"
+  },
+  "keywords": [
+    "hls",
+    "m3u8",
+    "node",
+    "copy",
+    "video",
+    "streaming"
+  ],
+  "author": "victusfate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victusfate/hls-copy/issues"
+  },
+  "homepage": "https://github.com/victusfate/hls-copy#readme"
+}
