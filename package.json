@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/victusfate/hls-copy/issues"
   },
-  "homepage": "https://github.com/victusfate/hls-copy#readme"
+  "homepage": "https://github.com/victusfate/hls-copy#readme",
+  "dependencies": {
+    "hls-watcher": "git@github.com:victusfate/node-hlswatcher.git"
+  }
 }
